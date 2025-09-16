@@ -27,6 +27,14 @@
 
 ---
 
+## Meu Progresso
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dl-Fernandes&show_icons=true&theme=radical)
+
+---
+
 ## 🌱 Sobre mim
 Sou iniciante na área de programação e estou construindo meu portfólio.
 Cada projeto aqui representa um novo aprendizado na minha jornada para me tornar um desenvolvedor full stack.
