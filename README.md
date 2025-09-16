@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Daniel!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Veiga de Almeida (UVA)**
 
 💻 Atualmente aprendendo **.NET com IA** [Bootcamp DIO](https://www.dio.me/bootcamp/avanade-back-end-com-net-e-ia)
 
