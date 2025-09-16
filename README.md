@@ -29,9 +29,9 @@
 
 ## Meu Progresso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&cache_seconds=1800&theme=gotham)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dl-Fernandes&show_icons=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dl-Fernandes&show_icons=true&cache_seconds=1800&theme=gotham)
 
 ---
 
