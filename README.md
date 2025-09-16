@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-💻 Atualmente aprendendo **.NET com IA** [Bootcamp DIO](https://web.dio.me/track/ddaf2c19-dc57-4fd5-aac9-c7b4a2ff88bb)
+💻 Atualmente aprendendo **.NET com IA** [Bootcamp DIO](https://www.dio.me/bootcamp/avanade-back-end-com-net-e-ia)
 
 📒 Também praticando **Java** através de projetos da faculdade
 
