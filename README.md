@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Veiga de Almeida (UVA)**
 
-💻 Atualmente aprendendo **.NET com IA** [Bootcamp DIO](https://www.dio.me/bootcamp/avanade-back-end-com-net-e-ia)
+💻 Atualmente aprendendo **Java** na faculdade e no [Bootcamp Riachuelo - Primeiros passos com Java - DIO](https://www.dio.me/en/bootcamp/riachuelo-primeiros-passos-com-java)
 
 📒 Também praticando **Java** através de projetos da faculdade
 
@@ -20,9 +20,8 @@
 
 
 ## Tecnologias que estou aprendendo
-- **Linguagens:** Java ☕ | C# ⚙️
-- **Frameworks:** .NET
-- **Ferramentas:** Git | GitHub | VS Code | NetBeans
+- **Linguagens:** Java ☕ 
+- **Ferramentas:** Git | GitHub | VS Code 
 
 
 ---
@@ -37,4 +36,4 @@
 
 ## 🌱 Sobre mim
 Sou iniciante na área de programação e estou construindo meu portfólio.
-Cada projeto aqui representa um novo aprendizado na minha jornada para me tornar um desenvolvedor full stack.
+Cada projeto aqui representa um novo aprendizado na minha jornada para me tornar um desenvolvedor Java.
