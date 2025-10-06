@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade Veiga de Almeida (UVA)**
 
-💻 Atualmente aprendendo **Java** na faculdade e no [Bootcamp Riachuelo - Primeiros passos com Java - DIO](https://www.dio.me/en/bootcamp/riachuelo-primeiros-passos-com-java)
+💻 Atualmente aprendendo **Java** na faculdade e no [Formação Java Developer - DIO](https://www.dio.me/bootcamp/java-developer)
 
 📒 Também praticando **Java** através de projetos da faculdade
 
