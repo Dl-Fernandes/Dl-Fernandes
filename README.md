@@ -24,17 +24,37 @@ Versionamento:   Git, GitHub
 APIs:            REST APIs
 ```
 
+### 📊 Linguagens e Tecnologias
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
 ### 📊 Meu Progresso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&cache_seconds=1800&theme=gotham)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dl-Fernandes&show_icons=true&cache_seconds=1800&theme=gotham)
 
-
 ### 📂 Projetos em Destaque
 
-- 🖥️ [**Sistema de Computador**](https://github.com/Dl-Fernandes/Computador) - Projeto acadêmico aplicando conceitos de POO
-- 🚗 [**Sistema de Transporte**](https://github.com/Dl-Fernandes/Transporte) - Modelagem e implementação de sistema de transporte
+<div align="center">
+  <a href="https://github.com/Dl-Fernandes/Computador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Dl-Fernandes/Transporte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+**🖥️ Sistema de Computador** - Projeto acadêmico aplicando conceitos de POO  
+**🚗 Sistema de Transporte** - Modelagem e implementação de sistema de transporte
 
 ### 💡 Competências Principais
 
