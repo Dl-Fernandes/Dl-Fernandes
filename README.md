@@ -46,8 +46,8 @@ APIs:            REST APIs
 
 <div align="center">
   
-[![Computador](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=tokyonight&hide_border=true)](https://github.com/Dl-Fernandes/Computador)
-[![Transporte](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=tokyonight&hide_border=true)](https://github.com/Dl-Fernandes/Transporte)
+[![Computador](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=gotham)](https://github.com/Dl-Fernandes/Computador)
+[![Transporte](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=gotham)](https://github.com/Dl-Fernandes/Transporte)
 
 </div>
 
