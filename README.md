@@ -14,63 +14,61 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de
 
 ### 🛠️ Tecnologias e Ferramentas
 
-```text
-Linguagens:      Java
-Conceitos:       POO (Programação Orientada a Objetos)
-                 Lógica de Programação
-Frameworks:      Spring Boot (em aprendizado)
-Banco de Dados:  SQL
-Versionamento:   Git, GitHub
-APIs:            REST APIs
-```
-
-### 📊 Linguagens e Tecnologias
-
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
 ### 📊 Meu Progresso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&cache_seconds=1800&theme=gotham)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dl-Fernandes&show_icons=true&cache_seconds=1800&theme=gotham)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dl-Fernandes&show_icons=true&cache_seconds=1800&theme=gotham&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&cache_seconds=1800&theme=gotham&hide_border=true" />
+</div>
 
 ### 📂 Projetos em Destaque
 
 <div align="center">
   
-[![Computador](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=gotham)](https://github.com/Dl-Fernandes/Computador)
-[![Transporte](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=gotham)](https://github.com/Dl-Fernandes/Transporte)
+[![Computador](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=gotham&hide_border=true)](https://github.com/Dl-Fernandes/Computador)
+[![Transporte](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=gotham&hide_border=true)](https://github.com/Dl-Fernandes/Transporte)
 
 </div>
 
+
+
 ### 💡 Competências Principais
 
-- ✅ Comunicação clara e objetiva
-- ✅ Foco em prazos e entregas
-- ✅ Gestão de tempo eficiente
-- ✅ Resolução de problemas
-- ✅ Trabalho colaborativo
+<div align="center">
+
+| Técnicas | Comportamentais |
+|----------|----------------|
+| ☕ POO e Clean Code | 🗣️ Comunicação clara |
+| 🔧 Git & GitHub | ⏰ Gestão de tempo |
+| 🎯 Resolução de problemas | 🤝 Trabalho colaborativo |
+| 📝 Documentação | 🚀 Foco em resultados |
+
+</div>
 
 ### 🎯 Objetivos Profissionais
 
 Busco minha primeira oportunidade como **estagiário** ou **desenvolvedor júnior**, onde eu possa:
 
-- Contribuir com projetos reais e desafiadores
-- Aprender com profissionais experientes
-- Aplicar e expandir meus conhecimentos técnicos
-- Crescer profissionalmente na área de desenvolvimento de software
+- ✅ Contribuir com projetos reais e desafiadores
+- ✅ Aprender com profissionais experientes
+- ✅ Aplicar e expandir meus conhecimentos técnicos
+- ✅ Crescer profissionalmente na área de desenvolvimento de software
 
 ### 📫 Como me Encontrar
 
-<div>
+<div align="center">
   <a href="mailto:dl.fernandes.rj21@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -90,7 +88,7 @@ Busco minha primeira oportunidade como **estagiário** ou **desenvolvedor júnio
 
 <div align="center">
   
-  **"Sempre aberto a aprender, colaborar e crescer na área de tecnologia!"**
+  **"Sempre aberto a aprender, colaborar e crescer na área de tecnologia!"** 💙
   
 </div>
 
