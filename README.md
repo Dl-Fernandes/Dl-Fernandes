@@ -45,16 +45,11 @@ APIs:            REST APIs
 ### 📂 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Dl-Fernandes/Computador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dl-Fernandes/Transporte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+  
+[![Computador](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Computador&theme=tokyonight&hide_border=true)](https://github.com/Dl-Fernandes/Computador)
+[![Transporte](https://github-readme-stats.vercel.app/api/pin/?username=Dl-Fernandes&repo=Transporte&theme=tokyonight&hide_border=true)](https://github.com/Dl-Fernandes/Transporte)
 
-**🖥️ Sistema de Computador** - Projeto acadêmico aplicando conceitos de POO  
-**🚗 Sistema de Transporte** - Modelagem e implementação de sistema de transporte
+</div>
 
 ### 💡 Competências Principais
 
@@ -98,3 +93,4 @@ Busco minha primeira oportunidade como **estagiário** ou **desenvolvedor júnio
   **"Sempre aberto a aprender, colaborar e crescer na área de tecnologia!"**
   
 </div>
+
