@@ -32,8 +32,13 @@ Graduando em **Análise e Desenvolvimento de Sistemas** na Universidade Veiga de
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dl-Fernandes&layout=compact&cache_seconds=1800&theme=gotham&hide_border=true" />
 </div>
 
-### 📜 Certificações e Formações (DIO)
+### 📜 Certificações e Formações
 
+#### 🔵 Google / Coursera
+- 🌐 **Os Bits e Bytes da Rede de Computadores** — Google / Coursera (08/2026)
+- 🛠️ **Fundamentos de Suporte Técnico** — Google / Coursera (07/2026)
+
+#### ⚡ Digital Innovation One (DIO)
 - 🐧 **Formação Linux Experience (42h)** — Administração de sistemas, permissões e processos.
 - 🏦 **Bootcamp Santander - Linux para Iniciantes (30h)** — Fundamentos do ecossistema Linux.
 - 💻 **Formação Linux Fundamentals (23h)** — Manipulação de arquivos e comandos essenciais via CLI.
